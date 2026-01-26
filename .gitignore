@@ -1,3 +1,8 @@
 .env
 Himanshu.md
 README.md
+
+# Node modules (backend & frontend)
+node_modules/
+backend/node_modules/
+frontend/node_modules/
